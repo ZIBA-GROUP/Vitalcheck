@@ -1,0 +1,6 @@
+{
+  "name": "Dein Vitalcheck - Kostenloser Gesundheitscheck & Vitalitätsanalyse",
+  "description": "Professioneller, interaktiver Gesundheits- und Vitalitätscheck im Navy-Blau-Design mit Anbindung an E-Mail-Marketing-Tools (Klick-Tipp, Brevo, ActiveCampaign, Webhooks) und All-Inkl Hosting-Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
